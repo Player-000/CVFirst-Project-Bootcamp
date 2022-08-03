@@ -1,0 +1,41 @@
+body {
+	background-color: rgb(114, 114, 114);
+	font-family: Calibri;
+	font-size: large;
+}
+
+hr {
+	border-color: rgb(255, 255, 255);
+	border-width: 7px;
+	border-style: dotted none none;
+	width: 5%;
+}
+
+img{
+	height: 80%;
+	width: 80%;
+}
+table{
+	border: 1px;
+	padding: 1%;
+	border-spacing: 1%;
+}
+td{
+	align-items: center;
+	align-content: center;
+	text-align: center;
+}
+h1, h2 , h3, h4, h5, h6{
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	color: aquamarine;
+}
+
+#menu-outer {
+	height: 84px;
+	background: url(images/bar-bg.jpg) repeat-x;
+}
+
+.table {
+	display: table;   /* Allow the centering to work */
+	margin: 0 auto;
+}
